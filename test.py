@@ -5,7 +5,7 @@ import argparse
 from model import RRAM
 
 SAVE_PATH = '/models/'
-DATA_PATH = 'relaxation_data.mat'
+DATA_PATH = '/resources/relaxation_data.mat'
 
 parser = argparse.ArgumentParser()
 parser.add_argument("-r", "--results-folder", default="results")

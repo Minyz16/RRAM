@@ -15,7 +15,7 @@ SAVE_EACH_ITERATIONS = 200
 TEST_EACH_ITERATIONS = 20
 SAVE_PATH = '/models/'
 LOG_PATH = '/log/'
-DATA_PATH = 'relaxation_data.mat'
+DATA_PATH = '/resources/relaxation_data.mat'
 
 #create folder
 parser = argparse.ArgumentParser()
