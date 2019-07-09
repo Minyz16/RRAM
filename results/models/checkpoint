@@ -1,0 +1,4 @@
+model_checkpoint_path: "RRAM-600"
+all_model_checkpoint_paths: "RRAM-200"
+all_model_checkpoint_paths: "RRAM-400"
+all_model_checkpoint_paths: "RRAM-600"
